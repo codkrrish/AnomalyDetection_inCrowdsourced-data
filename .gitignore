@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Project specific outputs and models
+models/lof_models/
+models/scalers/
+data/outputs/
+reports/plots/
+reports/statistics/
+
+# Ignored scratch and dump files
+nb_dump.txt
+scratch_read_nb.py
+
+# Ignore large datasets
+*.csv
+*.json
+!test.json
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
