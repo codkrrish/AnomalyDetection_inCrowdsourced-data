@@ -1,4 +1,4 @@
-# Crowdsourced Anomaly Detection
+# Anomaly detection for crowdsourced salary data
 
 This project is an anomaly detection pipeline designed to identify fake, invalid, or anomalous entries in crowdsourced salary data. It is built to ensure high data quality by filtering out malicious or incorrect submissions before they can degrade business insights.
 
